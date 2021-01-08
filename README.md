@@ -8,4 +8,4 @@ I don't wanna change it. (I was probably high when I have chosen this name)
 <p> Sooo what now </p>
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![My github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
